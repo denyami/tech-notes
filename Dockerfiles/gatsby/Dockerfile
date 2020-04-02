@@ -13,6 +13,9 @@ RUN apt purge -y nodejs npm
 
 RUN npm install -g gatsby-cli
 
+RUN npm install -g firebase-tools
+
+
 
 ARG DOCKER_UID=1000
 ARG DOCKER_USER=docker

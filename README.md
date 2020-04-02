@@ -1,14 +1,1 @@
-```
-docker-compose up -d
-```
-```
-docker exec -it <servise_name> /bin/bash
-```
-```
-gatsby new
-```
-```
-cd sample
-gatsby development --host=0.0.0.0
-```
-
+[https://tech-notes-f9436.web.app/](https://tech-notes-f9436.web.app/)
