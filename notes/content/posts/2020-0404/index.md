@@ -1,5 +1,5 @@
 ---
-path: "/post-nine"
+path: "/3"
 cover: "picture3.png"
 date: "2020-04-04"
 title: "raspberry pi で カメラを使用する"

@@ -1,5 +1,5 @@
 ---
-path: "/post-seven"
+path: "/1"
 cover: "gatsby_new_hello.png"
 date: "2020-04-02"
 title: "Gatsby.js環境をDocker上で構成する (Gatsby.js on Docker)"

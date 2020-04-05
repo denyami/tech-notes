@@ -1,5 +1,5 @@
 ---
-path: "/post-eight"
+path: "/2"
 cover: "picture1.png"
 date: "2020-04-03"
 title: "dockerで構築したGatsby.jsサイトのfirebaseへのdeploy"
