@@ -80,7 +80,7 @@ $ docker-compose up --build
 
 前回と以下のコマンドで仮想環境に入ります.
 
-gatsby-notes_webserver_1は各環境で添字等が変わるので適時読み替えてください.(大体はTabキーの補完でどうにかなるとは思いますが)
+gatsby-notes_webserver_1は各環境で添字等が変わるので適時読み替えてください.
 
 ```
 $ docker exec -it gatsby-notes_webserver_1 /bin/bash
