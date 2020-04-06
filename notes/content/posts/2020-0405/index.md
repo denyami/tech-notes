@@ -4,7 +4,7 @@ cover: "picture16.png"
 date: "2020-04-05"
 title: "ubuntu18.04とWindowsのデュアルブート"
 published: true
-tags: ['linux', 'OS', '環境構築']
+tags: ['Linux', 'OS', '環境構築']
 ---
 #なぜやるのか
 久しぶりにUbuntuのクリーンインストールをすることになったので忘れないように備忘録として残すことにしました.
