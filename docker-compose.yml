@@ -1,7 +1,7 @@
 version: '3'
 services:
   webserver:
-    build: ./Dockerfiles/gatsby/
+    build: ./docker/gatsby/
     ports:
       - "8000:8000"
     volumes:
