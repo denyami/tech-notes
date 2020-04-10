@@ -1,7 +1,7 @@
 ---
 path: "/8"
 cover: "picture1.jpg"
-date: "2020-04-10"
+date: "2020-04-09"
 title: "laravel環境をDocker上で構成する (rails on Docker)"
 published: true
 tags: ['php', 'laravel', 'docker']
